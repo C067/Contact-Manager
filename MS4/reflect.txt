@@ -1,0 +1,38 @@
+/* -------------------------------------------
+
+Name: Callum Dodge
+
+Student number: 100229178
+
+Email: cdodge1@myseneca.ca
+
+Section: IPC144SOO
+
+Date: March 31, 2018
+
+----------------------------------------------
+
+Assignment: 2
+
+Milestone:  4
+
+---------------------------------------------- */
+
+3. While working on milestone 4, we had two different functions that we had to alter our code
+to fit and to work around on; getTenDigitPhone and findContactIndex. Milestone 4 introduces the 
+use of string functions in order to compare, sort, find the length etc. Both of these two functions
+allows the user to find, add, or even delete certain strings in this assignment. The findContactIndex 
+function uses the strcmp() command, this allows us to compare between different strings and see if
+they are the same or different based on characters, numbers or even occurrences. This function aids the
+user to find and return the current position in the contact array. The getTenDigitPhone function tells the 
+user to enter a certain number string, 10 and then return the value. This benefits our code because it tells 
+the user the exact number we need to find and compare it to. These two functions are an upside to maintenance
+and readability because we can call and use these two functions where ever in our code. Another upside is that 
+we won't have to declare any another variables or code any certain features in order for us to set or to look for
+these variable as these two functions are designed for that reason. 
+
+4. The thing I learned most from while doing assignment 2 is the use for string functions and the use of other
+functions. By using other functions we can decrease our workspace as we can always call a function that can do the 
+job for us. The thing I learned from string functions is that we can use it to search, compare or even check the 
+length of any other string. We can then use this to check, update or delete any string we don't like. This option is
+very useful for future use in any business, website, or game related materials. 
